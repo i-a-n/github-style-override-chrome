@@ -2,7 +2,7 @@
 
 ![screenshot](docs/screenshot.png)
 
-This is a tiny Chrome extension that reverts GitHub.com's sans-serif font back to Helvetica. They changed it to "-webkit-default" in July of 2016 and, if you're the kind of person who noticed, you might be the kind of person who wants to change it back.
+This is a tiny Chrome extension that reverts GitHub.com's sans-serif font back to Helvetica. They changed it to "-apple-system" in July of 2016 and, if you're the kind of person who noticed, you might be the kind of person who wants to change it back.
 
 This extension also includes a feature that sets tabs in GitHub's code view to equal whatever number of spaces you want (default: 4). GitHub defaults to 8 which is pretty silly, I think.
 
