@@ -1,5 +1,7 @@
 # GitHub Style Override
 
+[![GitHub version](https://badge.fury.io/gh/i-a-n%2Fgithub-style-override-chrome.svg)](https://badge.fury.io/gh/i-a-n%2Fgithub-style-override-chrome)
+
 ![screenshot](docs/screenshot.png)
 
 This is a tiny [Chrome extension](https://chrome.google.com/webstore/detail/fokbkibnoehgchghhgfhpglkfppffmmp/) that reverts GitHub.com's sans-serif font back to Helvetica. They changed it to "-webkit-default" in July of 2016 and, if you're the kind of person who noticed, you might be the kind of person who wants to change it back.
