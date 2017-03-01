@@ -4,9 +4,9 @@
 body .markdown-body {
 	font-family: 'Helvetica Neue' !important;
 }*/
-#js-repo-pjax-container a {
+div[role=main] a {
 	color: #5177b4 !important;
 }
-#js-repo-pjax-container table.files td.icon .octicon-file-directory {
+div[role=main] table.files td.icon .octicon-file-directory {
 	color: #87a2cf !important;
 }
