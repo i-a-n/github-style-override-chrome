@@ -19,7 +19,7 @@ div[role=main] a.navigation-focus {
 	background-color: #f7f7f7 !important;
 }
 
-div[role=main] .labels  a.label {
+div[role=main] .labels  a.label, div[role=main] .label-color a {
 	color: #333333 !important;
 }
 
