@@ -1,6 +1,12 @@
-body {
+/*body {
 	font-family: 'Helvetica Neue' !important;
 }
 body .markdown-body {
 	font-family: 'Helvetica Neue' !important;
+}*/
+#js-repo-pjax-container a {
+	color: #5177b4 !important;
+}
+#js-repo-pjax-container table.files td.icon .octicon-file-directory {
+	color: #87a2cf !important;
 }
