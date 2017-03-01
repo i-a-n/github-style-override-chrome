@@ -5,16 +5,43 @@ body .markdown-body {
 	font-family: 'Helvetica Neue' !important;
 }
 
+
 /* Revert to the old-school GitHub blue */
+
+/***** <a> elements *****/
 div[role=main] a, .site-footer a {
 	color: #5177b4 !important;
 }
+
+div[role=main] a.btn-primary {
+	color: #ffffff !important;
+}
+
+div[role=main] a.navigation-focus {
+	background-color: #f7f7f7 !important;
+}
+
+div[role=main] .labels  a.label {
+	color: #333333 !important;
+}
+
+.site-footer a {
+	color: #5177b4 !important;
+}
+
+/***** other elements *****/
 div[role=main] table.files td.icon .octicon-file-directory {
 	color: #87a2cf !important;
 }
+
+div[role=main] .ajax-pagination-form .ajax-pagination-btn {
+		color: #5177b4 !important;
+}
+
 .filter-item.selected {
 	background-color: #f4f6f8 !important;
 }
-.ajax-pagination-form .ajax-pagination-btn {
-		color: #5177b4 !important;
+
+.subnav-item.selected, .subnav-item.selected:hover, .subnav-item.selected:focus {
+	background-color: #f7f7f7 !important;
 }
