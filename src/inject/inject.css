@@ -4,9 +4,17 @@ body {
 body .markdown-body {
 	font-family: 'Helvetica Neue' !important;
 }
-div[role=main] a {
+
+/* Revert to the old-school GitHub blue */
+div[role=main] a, .site-footer a {
 	color: #5177b4 !important;
 }
 div[role=main] table.files td.icon .octicon-file-directory {
 	color: #87a2cf !important;
+}
+.filter-item.selected {
+	background-color: #f4f6f8 !important;
+}
+.ajax-pagination-form .ajax-pagination-btn {
+		color: #5177b4 !important;
 }
